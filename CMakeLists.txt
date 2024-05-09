@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.5)
-project(T_bot)
+project(AMZbot_XD)
 
 # Default to C99
 if(NOT CMAKE_C_STANDARD)
